@@ -1,0 +1,3 @@
+# Ignore all sqlite3 files
+db/*.sqlite3
+.DS_Store
